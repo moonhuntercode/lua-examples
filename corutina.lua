@@ -13,3 +13,4 @@ co = coroutine.create(ejemplo_corutina)
 for i = 1, 5 do
     coroutine.resume(co)
 end
+-- practicar corutinas y para qué sirven
